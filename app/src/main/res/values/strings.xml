@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AkiraChix Code 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="head">Welcome</string>
+    <string name="title_activity_about_akira_chix">AboutAkiraChix</string>
+    <string name="title_activity_profile">Profile</string>
+</resources>

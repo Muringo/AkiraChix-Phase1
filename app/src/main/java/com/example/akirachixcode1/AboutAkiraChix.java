@@ -51,7 +51,7 @@ WebView webView;
             }
         });
 
-        webview.loadUrl("https://akirachix.com/akirachix-story/");
+        webview.loadUrl("http://www.akirachix.com/");
     }
 
 }

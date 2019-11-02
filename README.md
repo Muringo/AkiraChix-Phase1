@@ -11,3 +11,6 @@ Activity B is the About AkiraChix page, it contains only a Webview that loads th
 
 Activity C is my profile, it contains an ImageView which should displays my photo,
 TextViews showing my name, Track, Country, Email and Phone Number.
+
+This is Activity A which is the MainActivity.
+https://github.com/Muringo/AkiraChix-phase1/issues/1#issue-516696873
